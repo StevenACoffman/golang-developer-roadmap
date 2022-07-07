@@ -24,6 +24,8 @@ If you like or are using this project to learn or start your solution, please gi
 
 ![Roadmap](./golang-developer-roadmap.png)
 
+Also see [draw.io link](https://app.diagrams.net/#G1ryGG0F9HP4HhAOWYxXQmHYqYkwSVZTEM)
+
 ## Resources
 
 1. Prerequisites
